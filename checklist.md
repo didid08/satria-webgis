@@ -1,0 +1,15 @@
+- [X] halaman awal
+- [ ] halaman beranda
+- [ ] halaman data filter publik
+- [X] halaman data tabel admin
+- [X] halaman data tabel publik
+- [ ] halaman komentar admin
+- [ ] halaman komentar publik
+- [X] halaman login
+- [X] halaman login admin
+- [ ] halaman pengaduan & laporan admin
+- [ ] halaman pengaduan & laporan publik
+- [X] halaman pengumuman admin
+- [X] halaman pengumuman publik
+- [ ] halaman peta publik
+- [ ] halaman tentang QnA
